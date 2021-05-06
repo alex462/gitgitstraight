@@ -3,8 +3,7 @@ package main
 import "fmt"
 
 func printthatshit() {
-	fmt.Println("this is branch 3")
-	fmt.Println("this is branch 2")
+	fmt.Println("this is new2")
 }
 
 func main() {
